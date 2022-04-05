@@ -1,2 +1,2 @@
-# QuizOne
-First exam for mmp 240 from Professor Kaisar
+# quizzes
+a collective of mmp240 quizzes 
